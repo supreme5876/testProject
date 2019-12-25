@@ -37,7 +37,7 @@ const person2 = {
 };
 const test : string = "hi";
 let test2 : string = "hi";
-test2 ="hihihi";
+test2 ="hihihi----------";
 //test = "hihi"; //const can't be reassigned again;
 
 const genesisBlock: Block = new Block(0, "dsifjslf", "");
