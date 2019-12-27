@@ -33,5 +33,8 @@ const App: React.FC = () => (
     </IonReactRouter>
   </IonApp>
 );
+function app(){
+  return <div>hello!</div>
+}
 
 export default App;
